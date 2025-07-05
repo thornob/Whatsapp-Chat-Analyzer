@@ -2,6 +2,8 @@
 
 This is a **Streamlit web app** that analyzes your exported WhatsApp chats and gives you cool insights with graphs and stats.
 
+🔗 **Try the App:** [[Click Here to Launch](https://whatsapp-chat-analyzer-keg2sridz9aw9k5ospajzg.streamlit.app/)]
+
 ## 🔍 Features
 - Total messages, words, media, and links
 - Monthly and daily timeline
